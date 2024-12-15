@@ -215,23 +215,23 @@ This page provides a high-level overview of key metrics, summarizing the dashboa
 
 ---
 
-### **Key Insights**
+## **Key Insights**
 
-1. **Sales Performance**:
-   - The top product category, *Health & Beauty*, generated over $1.25M in sales.
-   - São Paulo accounted for the highest revenue among states.
+### **Sales Performance**  
+- *Health & Beauty* generated over $1.25M, leading all product categories, but many categories underperformed, highlighting potential gaps in product offerings.  
+- São Paulo accounted for the highest revenue, while Northern states like Roraima and Amapá had significantly lower sales, indicating regional disparities.  
 
-2. **Shipping Analysis**:
-   - Shipping costs were highest for distant states like Roraima and Amapá.
-   - Delivery times were significantly faster for states closer to São Paulo.
+### **Shipping Analysis**  
+- Distant states like Roraima and Amapá faced the highest shipping costs, reducing profit margins and potentially discouraging customers.  
+- Delivery times were fastest near São Paulo but delayed significantly in remote regions, raising concerns about customer satisfaction and scalability.  
 
-3. **Customer Behavior**:
-   - Over 93% of customers were new, indicating growth potential.
-   - The average customer lifetime value was $249.61.
+### **Customer Behavior**  
+- Over 93% of customers were new, reflecting strong acquisition rates, but the low percentage of returning customers suggests retention challenges.  
+- While the average CLV was $249.61, most customers spent less than $50, indicating reliance on low-value transactions and room to grow spending per customer.  
 
-4. **Seller Insights**:
-   - The top seller contributed $229K in revenue.
-   - Most sellers were concentrated in São Paulo, the hub of activity.
+### **Seller Insights**  
+- The top seller contributed $229K, but the heavy reliance on a few high-performing sellers poses a risk if they leave or reduce activity.  
+- Most sellers were based in São Paulo, leaving other regions underserved and limiting overall market reach.  
 
 
 
