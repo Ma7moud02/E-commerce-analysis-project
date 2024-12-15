@@ -34,7 +34,7 @@ The primary goal of this project was to perform a comprehensive analysis of the 
 The dataset was sourced from the [Brazilian E-commerce Public Dataset on Kaggle](https://www.kaggle.com/datasets/olistbr/brazilian-ecommerce). It contains anonymized data from 100,000 orders made between 2016 and 2018 across multiple marketplaces in Brazil. The dataset includes information on order status, pricing, payments, freight performance, customer locations, product attributes, and customer reviews.
 
 ### **Data Schema** 
-*(Insert image here)*
+![Data Schema](dashboard/7.jpg)
 
 ## **Data Preparation** 
 The data preparation phase was the backbone of this project, requiring careful handling of large datasets to ensure accuracy, consistency, and efficiency. Here's how the process unfolded:
@@ -147,6 +147,7 @@ Now, let's dive into the heart of the analysis—the Power BI dashboard. It’s 
 
 
 ### **1. Sales Performance Analysis**
+![Sales Performance Analysis](dashboard/1.jpg) 
 This page examines sales trends, top-performing categories, and revenue distribution across regions. It helps identify what drives revenue and highlights growth opportunities.
 
 **Key Insights**:
@@ -157,6 +158,7 @@ This page examines sales trends, top-performing categories, and revenue distribu
 ---
 
 ### **2. Shipping Performance Analysis**
+![Sales Performance Analysis](dashboard/2.jpg) 
 This page evaluates shipping costs and delivery times across regions, providing insights into cost efficiency and logistical performance.
 
 **Key Insights**:
@@ -167,6 +169,7 @@ This page evaluates shipping costs and delivery times across regions, providing 
 ---
 
 ### **3. Order Lifecycle & Delivery Analysis**
+![Sales Performance Analysis](dashboard/3.jpg) 
 This page tracks the order lifecycle from placement to delivery, highlighting timeliness and regional variations in delivery performance.
 
 **Key Insights**:
@@ -177,6 +180,7 @@ This page tracks the order lifecycle from placement to delivery, highlighting ti
 ---
 
 ### **4. Customer Insights**
+![Sales Performance Analysis](dashboard/4.jpg) 
 This page explores customer behavior, focusing on retention, spending patterns, and engagement trends over time.
 
 **Key Insights**:
@@ -187,6 +191,7 @@ This page explores customer behavior, focusing on retention, spending patterns, 
 ---
 
 ### **5. Seller Insights**
+![Sales Performance Analysis](dashboard/5.jpg) 
 This page analyzes seller contributions and their geographic distribution, offering insights into seller performance and sales concentration.
 
 **Key Insights**:
@@ -197,6 +202,7 @@ This page analyzes seller contributions and their geographic distribution, offer
 ---
 
 ### **6. Business Summary**
+![Sales Performance Analysis](dashboard/6.jpg) 
 This page provides a high-level overview of key metrics, summarizing the dashboard’s findings for quick decision-making.
 
 **Key Metrics**:
