@@ -1,6 +1,6 @@
 # **E-commerce Data Analysis and Dashboard** 📊
 
-## **Table of Contents** 📑
+## **Table of Contents** 
 1. [Overview](#overview)  
 2. [Objective](#objective)  
 3. [Data Source](#data-source)  
@@ -15,10 +15,10 @@
 9. [Conclusion](#conclusion)  
 10. [Access](#access)  
 
-## **Overview** 💡
+## **Introduction**
 This project involves a comprehensive analysis of a Brazilian e-commerce dataset (2017–2018), leveraging tools like Excel, SQL, and Power BI to derive actionable insights into sales performance, customer behavior, shipping logistics, and seller activity. The project culminates in an interactive Power BI dashboard designed to support business decisions with key metrics and trends.
 
-## **Objective** 🎯
+## 🎯**Objective** 
 The primary goal of this project was to perform a comprehensive analysis of the Brazilian e-commerce dataset from 2017–2018, focusing on several key aspects of the business:
 
 1. **Analyze Sales Trends**: Identify patterns in sales performance over time, including seasonal fluctuations, top-selling categories, and revenue distribution across different regions.
@@ -129,7 +129,7 @@ SELECT
 FROM orders
 GROUP BY customer_id;
 ```
-## **Step 3: Optimizing Data Import with CSV Lint** ⚙️
+## ⚙️**Step 3: Optimizing Data Import with CSV Lint** 
 
 A major challenge was the lengthy data import time when transitioning from CSV files to MySQL. Initially, importing large datasets into SQL Workbench took hours. To address this, the **CSV Lint** plugin for Notepad++ was employed, significantly reducing the import time to mere seconds. This tool allowed for quick validation and cleanup of CSV files, ensuring they were ready for efficient import.
 
@@ -140,7 +140,7 @@ A major challenge was the lengthy data import time when transitioning from CSV f
 - **SQL** enabled robust handling of relational data and large-scale transformations that Excel could not manage.
 - **CSV Lint** streamlined the data import process, solving a critical bottleneck in workflow efficiency.
 
-## **Dashboard Overview** 📊
+## 📊**Dashboard Overview** 
 
 Now, let's dive into the heart of the analysis—the Power BI dashboard. It’s organized into six key pages, each focusing on a different aspect of the business. Let’s walk through them and uncover the insights that drive performance.
 
@@ -215,7 +215,7 @@ This page provides a high-level overview of key metrics, summarizing the dashboa
 
 ---
 
-## **Key Insights**
+## 💡**Key Insights**
 
 ### **Sales Performance**  
 - *Health & Beauty* generated over $1.25M, leading all product categories, but many categories underperformed, highlighting potential gaps in product offerings.  
@@ -243,7 +243,7 @@ This page provides a high-level overview of key metrics, summarizing the dashboa
 
 
 
-## **Tools Used** 🛠️
+## 🛠️**Tools Used** 
 - **Excel**: Data cleaning and initial analysis.
 - **MySQL**: Relational database modeling and advanced queries.
 - **Power BI**: Data visualization and interactive dashboards.
@@ -251,6 +251,6 @@ This page provides a high-level overview of key metrics, summarizing the dashboa
 
 
 
-## **Conclusion** 💡
+## 📜**Conclusion** 
 This project provided valuable insights into e-commerce operations, showcasing the potential for data-driven decision-making in areas like sales, logistics, and customer retention. The interactive dashboard empowers stakeholders to explore trends and metrics dynamically.
 
