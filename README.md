@@ -15,7 +15,7 @@
 9. [Conclusion](#conclusion)  
 10. [Access](#access)  
 
-## **Overview** 🌟
+## **Overview** 💡
 This project involves a comprehensive analysis of a Brazilian e-commerce dataset (2017–2018), leveraging tools like Excel, SQL, and Power BI to derive actionable insights into sales performance, customer behavior, shipping logistics, and seller activity. The project culminates in an interactive Power BI dashboard designed to support business decisions with key metrics and trends.
 
 ## **Objective** 🎯
@@ -30,7 +30,7 @@ The primary goal of this project was to perform a comprehensive analysis of the 
 
 
 
-## **Data Source** 📊
+## **Data Source** 
 The dataset was sourced from the [Brazilian E-commerce Public Dataset on Kaggle](https://www.kaggle.com/datasets/olistbr/brazilian-ecommerce). It contains anonymized data from 100,000 orders made between 2016 and 2018 across multiple marketplaces in Brazil. The dataset includes information on order status, pricing, payments, freight performance, customer locations, product attributes, and customer reviews.
 
 ### **Data Schema** 
