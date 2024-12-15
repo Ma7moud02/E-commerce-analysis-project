@@ -39,7 +39,7 @@ The dataset was sourced from the [Brazilian E-commerce Public Dataset on Kaggle]
 ## **Data Preparation** 
 The data preparation phase was the backbone of this project, requiring careful handling of large datasets to ensure accuracy, consistency, and efficiency. Here's how the process unfolded:
 
-### **Step 1: Data Cleaning and Transformation in Excel** 
+   ### **Step 1: Data Cleaning and Transformation in Excel** 
 The project began in Excel, where the raw data was explored, cleaned, and prepped for further analysis. This step was crucial for addressing issues that could impact data quality:
 
 - **Handling Missing Values** :  
